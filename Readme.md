@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to show/hide grid columns via ASPxPopupMenu
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e1461/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to change grid columns visibility via a popup menu during a callback. All controls lie inside the ASPxCallbackPanel. Their state is changed during a callback. The popup menu is shown when you click on the grid header. After clicking a menu item, the callback panel sends a callback to the server, where the controls state is modified.</p><p><strong>See Also:</strong><br />
